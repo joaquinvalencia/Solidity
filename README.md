@@ -8,7 +8,7 @@ https://solidity.readthedocs.io/en/v0.5.13/solidity-by-example.html#micropayment
 ### Solidity Is Weird
 https://medium.com/devslopes-blog/solidity-is-the-weirdest-9d3c22f2c196
 
-## Going more in depth with Solidity
+### Going more in depth with Solidity
 https://solidity.readthedocs.io/en/v0.5.13/solidity-in-depth.html
 
 ## Why We Chose Solidity
