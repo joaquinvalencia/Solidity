@@ -18,3 +18,8 @@ Our group chose to present on the programming language Solidity. Solidity is an 
 
 
 Solidity is unique because it is a language designed to create effective smart contracts between users. This is handled by utilizing block chains to protect transactions. For example, in a simple crypto currency where two transactions that counter each other are committed at the same time, a block chain will pick one to be first and produce an error for the second attempted transaction instead of duplicating non existing values. A block chain is best imagined as a linear list of sequential transaction that are checked for validity before the next transaction occurs. Block chains are what enable user to user interaction while also maintaining security over servers.
+
+## Where Solidity Can Be Used Outside of Cryptocurrency
+
+Solidity can also be used outside of cryptocurrencies for other blockchain applications. Currently companies are venturing into the idea of using smart contracts to help better secure transactions for things like online auctions and ticketing services. However one of the most promising uses for solidities smart contract system is to help protect against voter fraud. If everyone voted through a blockchain based system with everything getting encrypted using smart contracts, this would negate issues that come up with paper ballots or voting machines that have been shown to be extremely vulnerable to being hacked. 
+
